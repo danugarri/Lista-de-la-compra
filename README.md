@@ -1,4 +1,4 @@
-Shopping list created usin React app.
+Shopping list created using React app.
 
 Function components
 
