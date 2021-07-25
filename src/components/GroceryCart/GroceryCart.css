@@ -1,0 +1,40 @@
+ .quitar{
+   
+    background-color: rgb(247, 23, 16);
+    position:absolute;
+    left:20%;
+    cursor: pointer;
+}
+
+.lista{
+    text-align: center;
+    width:70%;
+    border:2px solid rgb(223, 223, 157);
+    padding-bottom:2%;
+    margin:7% auto;
+    cursor: pointer;
+ 
+}
+.decoracion{
+    list-style: none;
+}
+.productos{
+   background-color:coral;
+   cursor: pointer;
+}
+.contenedor{
+    width:70%;
+margin:0 auto
+}
+.encabezado-lista{
+    background-color: rgb(247, 236, 89);
+    margin:2%;
+    border: 2px double black;
+    display: inline-block;
+}
+.imagen-lista{
+    width:10%;
+    height: 10%;
+    vertical-align: middle;
+  
+}
